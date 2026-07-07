@@ -11,7 +11,7 @@ import SwiftUI
 struct HyunaRecordAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
     }
 }
